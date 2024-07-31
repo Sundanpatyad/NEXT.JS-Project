@@ -12,7 +12,7 @@ const HeroSection = () => {
                     className="-top-40 left-0 md:left-60 md:-top-20"
                     fill="white"
                 />
-                <h1 className='text-5xl md:text-7xl font-bold mb-6'>Master The Art Of Music</h1>
+                <h1 className='text-5xl md:text-7xl lg:text-8xl w-full font-semibold mb-6'>Master The Art Of Music</h1>
                 <p className='text-lg md:text-xl mb-8'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat sint deleniti error culpa modi recusandae, veniam saepe ex alias tempora sit non provident suscipit mollitia esse aliquam, optio blanditiis sunt.</p>
                 <div className='mt-4'>
                     <Link href={"/courses"}>

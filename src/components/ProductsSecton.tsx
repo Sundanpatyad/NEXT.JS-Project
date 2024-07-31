@@ -39,7 +39,7 @@ const ProductsSection: React.FC = () => {
                             <div className='flex justify-between items-center'>
                                 <p className='text-lg font-semibold text-gray-800 dark:text-white'>${course.price}</p>
                                 <Link href={`/courses/${course.id}`}>
-                                    <Button borderRadius="1.75rem" className="bg-gray-900 dark:bg-white text-white dark:text-gray-900">
+                                    <Button borderRadius="1.75rem" className="bg-gray-900 dark:black text-white ">
                                         Learn More
                                     </Button>
                                 </Link>
