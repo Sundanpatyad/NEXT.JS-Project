@@ -1,11 +1,12 @@
-[
+{"courses" : [
     {
         "id": 1,
         "name": "Fender Stratocaster",
         "category": "Guitar",
         "price": 1299.99,
         "brand": "Fender",
-        "stock": 15
+        "stock": 15,
+        "isFeatured":true
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "category": "Digital Piano",
         "price": 649.99,
         "brand": "Yamaha",
-        "stock": 10
+        "stock": 10,
+        "isFeatured":true
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "category": "Drums",
         "price": 499.99,
         "brand": "Pearl",
-        "stock": 7
+        "stock": 7,
+        "isFeatured":true
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "category": "Microphone",
         "price": 99.00,
         "brand": "Shure",
-        "stock": 50
+        "stock": 50,
+        "isFeatured":true
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "category": "Drum Machine",
         "price": 699.99,
         "brand": "Roland",
-        "stock": 5
+        "stock": 5,
+        "isFeatured":true
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "category": "Synthesizer",
         "price": 549.99,
         "brand": "Korg",
-        "stock": 8
+        "stock": 8,
+        "isFeatured":true
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "category": "Guitar Pedal",
         "price": 59.99,
         "brand": "Boss",
-        "stock": 25
+        "stock": 25,
+        "isFeatured":true
     },
     {
         "id": 8,
@@ -61,7 +68,8 @@
         "category": "Bass Guitar",
         "price": 179.99,
         "brand": "Ibanez",
-        "stock": 12
+        "stock": 12,
+        "isFeatured":true
     },
     {
         "id": 9,
@@ -69,7 +77,8 @@
         "category": "Headphones",
         "price": 69.00,
         "brand": "AKG",
-        "stock": 30
+        "stock": 30,
+        "isFeatured":true
     },
     {
         "id": 10,
@@ -77,6 +86,7 @@
         "category": "Acoustic Guitar",
         "price": 599.99,
         "brand": "Taylor",
-        "stock": 20
+        "stock": 20,
+        "isFeatured":true
     }
-]
+]}
