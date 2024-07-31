@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Fender Stratocaster",
+        "category": "Guitar",
+        "price": 1299.99,
+        "brand": "Fender",
+        "stock": 15
+    },
+    {
+        "id": 2,
+        "name": "Yamaha P-125",
+        "category": "Digital Piano",
+        "price": 649.99,
+        "brand": "Yamaha",
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "name": "Pearl Roadshow Drum Set",
+        "category": "Drums",
+        "price": 499.99,
+        "brand": "Pearl",
+        "stock": 7
+    },
+    {
+        "id": 4,
+        "name": "Shure SM58 Microphone",
+        "category": "Microphone",
+        "price": 99.00,
+        "brand": "Shure",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "name": "Roland TR-8S",
+        "category": "Drum Machine",
+        "price": 699.99,
+        "brand": "Roland",
+        "stock": 5
+    },
+    {
+        "id": 6,
+        "name": "Korg Minilogue",
+        "category": "Synthesizer",
+        "price": 549.99,
+        "brand": "Korg",
+        "stock": 8
+    },
+    {
+        "id": 7,
+        "name": "Boss DS-1 Distortion Pedal",
+        "category": "Guitar Pedal",
+        "price": 59.99,
+        "brand": "Boss",
+        "stock": 25
+    },
+    {
+        "id": 8,
+        "name": "Ibanez GSRM20 Mikro Bass",
+        "category": "Bass Guitar",
+        "price": 179.99,
+        "brand": "Ibanez",
+        "stock": 12
+    },
+    {
+        "id": 9,
+        "name": "AKG K240 Studio Headphones",
+        "category": "Headphones",
+        "price": 69.00,
+        "brand": "AKG",
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "name": "Taylor GS Mini Acoustic Guitar",
+        "category": "Acoustic Guitar",
+        "price": 599.99,
+        "brand": "Taylor",
+        "stock": 20
+    }
+]
